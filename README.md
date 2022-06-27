@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mahranabid
-- 👀 I’m interested in 3d modeling and extended reality
+- 👀 I’m interested in 3d artist
 - 🌱 I’m currently learning unity and virtual reality
 - 📫 How to reach me [my behance](https://www.behance.net/AbidMahran)
 
