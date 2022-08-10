@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahranabid
-- 👀 I’m interested in 3d artist
-- 🌱 I’m currently learning unity and virtual reality
+- 👀 I’m interested in 3d Modeling, Digital twin and AR/VR applicaton 
+- 🌱 I’m currently learning unity and XR
 - 📫 How to reach me [my behance](https://www.behance.net/AbidMahran)
 
 <!---
